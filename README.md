@@ -1,0 +1,2 @@
+# jerqorgau-ai
+Ai-project
